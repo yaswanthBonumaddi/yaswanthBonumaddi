@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 Interested in contributing expertise in web fullstack development<br><br>👯 I hope someday collaborate with on Innovative Projects<br><br>👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies such as Next.js, TailwindCSS, GCP.<br><br>📚 Love reading books on personal development & financial literacy.<br><br>⚡ Quotes: What you do today can improve all of your tomorrows.
+😎 Interested in contributing expertise in web fullstack development<br><br>👯 I hope someday collaborate with on Innovative Projects<br><br>👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies such as Next.js, TailwindCSS, Supabase.<br><br>📚 Love reading books on personal development & financial literacy.<br><br>⚡ Quotes: What you do today can improve all of your tomorrows.
 
 
 ## 🌐 Socials:
