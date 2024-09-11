@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm <span color="#eb2f96">Yaswanth</span> Bonumaddi</h1>
 <h3 align="center">An Aspiring Fullstack Developer</h3>
-<img align="right" alt="Coding" width="350" src="https://res.cloudinary.com/def75ecr3/image/upload/v1726062458/3d-rendering-kid-playing-digital-game_fhk0ml.jpg" />
+<img align="right" alt="Coding" width="350" src="https://res.cloudinary.com/def75ecr3/image/upload/v1726063131/3d-rendering-kid-playing-digital-game_1_oyu4g6.jpg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanthbonumaddi&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanthbonumaddi" /> </p>
 
 - 🌱 I’m currently learning **Next.js, TailwindCSS, and Supabase**
