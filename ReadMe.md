@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, React, GraphQL, and Python**
 
-- 📄 Check out my [resume](#)
+- 📄 Check out my [resume](https://drive.google.com/file/d/1N4vMvxEKCV5OtGNnwdkTF2rBZI8GIJXM/view?usp=sharing)
 
 - 💻 Have a look at my [portfolio](https://portfolio-q6z2.vercel.app/)
 
