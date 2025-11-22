@@ -11,7 +11,7 @@
 
 - 📄 Check out my [resume](#)
 
-- 💻 Have a look at my [portfolio](http://elonsteve.pro)
+- 💻 Have a look at my [portfolio](https://portfolio-q6z2.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
