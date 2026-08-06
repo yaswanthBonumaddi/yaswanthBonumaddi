@@ -30,7 +30,7 @@ I am an experienced **Software Engineer** with a Master's in Science, currently 
 - 🔭 **Currently building:** **Godspeed Studio**, a browser-based IDE with real-time local file sync and CLI integration.
 - 💼 **Previously:** Engineered **Avkash.io**, a multi-tenant leave management platform with OAuth and dynamic RLS policies.
 - 💬 **Ask me about:** Next.js, TypeScript, Supabase, Docker, and System Design.
-- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1N4vMvxEKCV5OtGNnwdkTF2rBZI8GIJXM/view?usp=sharing)
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1do8CL0vhN9MnJIfNShfbDUvgFaGaUhlG/view?usp=drive_link)
 
 ---
 
