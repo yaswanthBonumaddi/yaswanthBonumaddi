@@ -15,7 +15,7 @@
     <a href="mailto:yaswanthbonumaddi9@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://portfolio-q6z2.vercel.app/" target="_blank">
+    <a href="https://www.yaswanth.space/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
@@ -30,7 +30,7 @@ I am an experienced **Software Engineer** with a Master's in Science, currently 
 - 🔭 **Currently building:** **Godspeed Studio**, a browser-based IDE with real-time local file sync and CLI integration.
 - 💼 **Previously:** Engineered **Avkash.io**, a multi-tenant leave management platform with OAuth and dynamic RLS policies.
 - 💬 **Ask me about:** Next.js, TypeScript, Supabase, Docker, and System Design.
-- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1do8CL0vhN9MnJIfNShfbDUvgFaGaUhlG/view?usp=drive_link)
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1VBAuXRNASbtIsbN1dG9GPgaaYq0fW9Or/view?usp=sharing)
 
 ---
 
